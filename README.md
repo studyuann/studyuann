@@ -92,4 +92,13 @@
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 </div>
 
-
+ ## 🛠️ Hard Tools(Laptop)
+ <div align="left">
+  <img src="https://img.shields.io/badge/laptop-HP%20OMEN%2016--ap0115ax-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen%E2%84%A2_AI_9_365-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+   <br/>
+  <img src="https://img.shields.io/badge/laptop-HP%20Victus%2016--s0201ax-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_7840HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</div>
