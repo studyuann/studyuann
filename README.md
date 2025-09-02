@@ -1,27 +1,27 @@
 <div align="center">
+
   ![header](https://capsule-render.vercel.app/api?type=Egg&color=gradient)
-  <br/>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=50&pause=2000&color=0400B3&center=true&vCenter=true&width=880&height=120&lines=%E2%9C%A8+Welcome+to+yuann's+GITHUB+%E2%9C%A8)](https://git.io/typing-svg)
-  <br/>
-</div>
 <br/>
-
-<div align="left">
-  ## 🍀 About Me
-  안녕하세요, 단순 반복작업이 싫어서 개발하는 백유안 입니다.
-  <br/>
-  <br/>
-  <ul style="list-style-type: none;">
-    <li> 🎓 A graduate of a software university, and a major in Korean Language and Literature </li>
-    <li> 📑 3 years of experience in maintenance </li>
-    <li> ✏️ Focusing on MLOps, building on my DevOps knowledge</li>
-  </ul>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=50&pause=2000&color=0400B3&center=true&vCenter=true&width=880&height=120&lines=%E2%9C%A8+Welcome+to+yuann's+GITHUB+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
+</div>
 
-<div align="left">
+
+ ## 🍀 About Me
+  안녕하세요, 단순 반복작업이 싫어서 개발하는 백유안 입니다. <br/>
+
+  <div align = "left">
+    <br/>
+    <ul list-style-type="none">
+      <li> 🎓 A graduate of a software university, and a major in Korean Language and Literature </li>
+      <li> 📑 3 years of experience in maintenance </li>
+      <li> ✏️ Focusing on MLOps, building on my DevOps knowledge</li>
+    </ul>
+  </div>
+
   ## 👀 Skills
+<div align="left">
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/"> 
@@ -40,10 +40,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<br/>
+<br/><br/>
 
-<div align="left">
+
+  
   ## 📖 Once I've used
+<div align="left">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -72,12 +74,12 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <br/><br/>
 </div>
+  
 
-<br/>
-
-<div align="left">
   ## 🛠️ Tools
+<div align="left">
   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -88,3 +90,5 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 </div>
+
+
